@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Goldman&display=swap');
+.tituloRollingSports {
+    font-family: 'Goldman', cursive;
+}
+
+@media all and (max-width: 576px) {
+    .carousel-sm {
+        object-fit: cover;
+        height: 187px;
+    }
+}
+
+.margenEspecial {
+    margin-top: 100px;
+}
+
+.lista {
+    list-style: none;
+    padding: 0;
+}
+
+.Thumbimg {
+    border-radius: 5%;
+}
